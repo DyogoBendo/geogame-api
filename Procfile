@@ -1,0 +1,1 @@
+web: gunicorn geogame_api.wsgi
